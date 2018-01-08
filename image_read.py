@@ -12,7 +12,7 @@ import glob
 import os
 
 """
-Settings
+Configuration
 """
 font = cv2.FONT_HERSHEY_SIMPLEX
 linedist = 0.3
