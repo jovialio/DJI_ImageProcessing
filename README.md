@@ -2,7 +2,7 @@
 
 ---
 
-##Limitations
+## Limitations
 
 Python file written in a quick and dirty way with the following clause:
 * Image should only be in Singapore context as lat/lon are not checked for NSEW
